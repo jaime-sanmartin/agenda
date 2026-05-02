@@ -1,0 +1,5 @@
+[15-Apr-2026 14:04:46 America/Santiago] PHP Warning:  require_once(views/layouts/header.php): Failed to open stream: No such file or directory in /home/mascapa2/public_html/agendapro/views/users/index.php on line 1
+[15-Apr-2026 14:04:46 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/header.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/mascapa2/public_html/agendapro/views/users/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/mascapa2/public_html/agendapro/views/users/index.php on line 1
